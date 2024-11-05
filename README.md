@@ -4,11 +4,34 @@
 ### Project Title: Customer Segmentation for a Subscription Service
 
 
+Project Overview
+
+Data sources
+
+Tools Used
+
+Data Cleaning and preparations
+
+Data Analysis
+
+
+Data visualization
+
+SQL-Structured Query Language
+
+[Power BI](#power bi)
+
+
+
+
+
+
+
 ### Project Overview
-This project involves analyzing customer data for a subscription service to identify segments and trends. The goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals.To enchanced business insights of segmentation for type of subscription services customer identifies by analysing reasonable data received.
+This project involves analyzing customer data for a subscription service to identify segments and trends. The goal is to understand customer behavior, track subscription types,identify key trends in cancellations and renewals. Enchance business insights of segmentation for type of subscription services customer identifies by analysing reasonable data received.
 
 ### Data sources
-The primary source of Data used here is service,CSV and this is an opened data that can be freely download from an open source.
+The primary source of Data used here is service,CSV and this is an open data that can be freely downloaded from an open source.
 
 ### Tools Used
 
@@ -118,16 +141,29 @@ Build a Power BI dashboard that visualizes key customer segment cancellations, a
 
 ![image](https://github.com/user-attachments/assets/3c52952d-e3e9-47b7-a9a4-1a84a719e2ab)
 
-#### Analyzing customer data for a subscription services showing below performance
-* The above Poweer Bi dashboard shows the sum of Revenue 
+####  The dashboard showing customer Segment and subscription trends 
+* The above Poweer Bi dashboard shows the different types of tools for visualization
+* the sum of Revenue 
 * Count of customerID
 * Count of Region by Canceled Number
 * Revenue by region by knowing the region that has the highest subscription services and the lowest.
 * Average Revenue by Region
-* s
+* Revenue by Subscription Type shows the region with the highest subscription and lowest
+* Count of Subscription Types by Region
+* slicer of highest,lowest subscription type,the region that has the highest and the lowest
+* Average of subcription duration for month
+  
 
 
 ![image](https://github.com/user-attachments/assets/accf2036-333b-4d04-a2a0-236803f01b70)
+
+* Table was also used to shows the Regionn,Subscription Type by Revenue
+* Customer Name by sum of Revenue
+* Subscription Type by Revenue
+
+
+
+
 
 
   
