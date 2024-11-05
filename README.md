@@ -113,6 +113,18 @@ This is where we involve basic line of codes or Query.Somme of the Dax expressio
 ###  Power BI
 
 Build a Power BI dashboard that visualizes key customer segment cancellations, and subscription trends. Include slicers for interactive analysis
+
+
+
+![image](https://github.com/user-attachments/assets/3c52952d-e3e9-47b7-a9a4-1a84a719e2ab)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/accf2036-333b-4d04-a2a0-236803f01b70)
+
+
   
 
 
