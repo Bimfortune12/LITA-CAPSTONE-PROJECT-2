@@ -71,6 +71,75 @@ This is where we involve basic line of codes or Query.Somme of the Dax expressio
 ![image](https://github.com/user-attachments/assets/a0a8b54e-61cc-457e-a271-9315e6db9909)
 
 
+### SQL-Structured Query Language for Querying Data
+*To load the dataset into your SQL Server environment to write and validate your queries
+
+ Write queries to extract key insights based on the following questions.
+
+*  retrieve the total number of customers from each region.
+
+  ![image](https://github.com/user-attachments/assets/2e3bd414-2123-44db-a986-61ca9146cb70)
+
+* Find the most popular subscription type by the number of customers.
+
+  ![image](https://github.com/user-attachments/assets/5d26c7be-21c0-4721-88f9-cc101d5a02f9)
+
+
+* find customers who canceled their subscription within 6 months.
+
+  ![image](https://github.com/user-attachments/assets/ddfb3040-28d3-4f02-a857-f0c4d3d5ee6f)
+
+* calculate the average subscription duration for all customers.
+
+  ![image](https://github.com/user-attachments/assets/aba3751a-4264-4690-84c2-2f88934278ac)
+
+* find customers with subscriptions longer than 12 months.
+
+  ![image](https://github.com/user-attachments/assets/867cb784-4a70-41d7-9b6a-441779c2b788)
+  ![image](https://github.com/user-attachments/assets/c32820da-40f1-4676-bbe9-599f881c6d36)
+
+* calculate total revenue by subscription type.
+  ![image](https://github.com/user-attachments/assets/534ada2c-0da8-4bdd-940b-702904c678bb)
+
+* Find the top 3 regions by subscription cancellations.
+
+  ![image](https://github.com/user-attachments/assets/0dcfb6b2-0d9a-46e8-946f-59aed2e7c996)
+
+* find the total number of active and canceled subscriptions.
+
+  ![image](https://github.com/user-attachments/assets/1d4f0151-aff3-4964-8fe6-e7f67b35237b)
+
+
+###  Power BI
+
+Build a Power BI dashboard that visualizes key customer segment cancellations, and subscription trends. Include slicers for interactive analysis
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+  
+
+
+  
+
+  
+  
+
+
+
+
+
 
 
 
