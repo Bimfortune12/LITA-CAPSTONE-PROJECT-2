@@ -118,8 +118,13 @@ Build a Power BI dashboard that visualizes key customer segment cancellations, a
 
 ![image](https://github.com/user-attachments/assets/3c52952d-e3e9-47b7-a9a4-1a84a719e2ab)
 
-
-
+#### Analyzing customer data for a subscription services showing below performance
+* The above Poweer Bi dashboard shows the sum of Revenue 
+* Count of customerID
+* Count of Region by Canceled Number
+* Revenue by region by knowing the region that has the highest subscription services and the lowest.
+* Average Revenue by Region
+* s
 
 
 ![image](https://github.com/user-attachments/assets/accf2036-333b-4d04-a2a0-236803f01b70)
