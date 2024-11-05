@@ -156,7 +156,7 @@ Build a Power BI dashboard that visualizes key customer segment cancellations, a
 * Revenue by Subscription Type shows the region with the highest subscription and lowest
 * Count of Subscription Types by Region
 * slicer to know the highest,lowest subscription type,the region that has the highest and the lowest
-* slicer was used to know for interactive analysis
+* slicer was used to know for interactive analysis also tack subscription type and identify key trend.
 * Average of subcription duration for month
   
 
