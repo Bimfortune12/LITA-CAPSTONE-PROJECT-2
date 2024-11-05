@@ -6,13 +6,18 @@
 
 [Project Overview](#project-overview)
 
+
 [Data sources](#data-sources)
+
 
 [Tools Used](#tools-used)
 
+
 [Data Cleaning and preparations](#data-cleaning-and-preparations)
 
+
 [Data Analysis](#data-analysis)
+
 
 [Data visualization](#data-visualization)
 
@@ -21,7 +26,6 @@
 
 
 [Power BI](#power-bi)
-
 
 
 
