@@ -4,22 +4,23 @@
 ### Project Title: Customer Segmentation for a Subscription Service
 
 
-Project Overview
+[Project Overview](#project-overview)
 
-Data sources
+[Data sources](#data-sources)
 
-Tools Used
+[Tools Used](#tools-used)
 
-Data Cleaning and preparations
+[Data Cleaning and preparations](#data-cleaning-and-preparations)
 
-Data Analysis
+[Data Analysis](#data-analysis)
+
+[Data visualization](#data-visualization)
 
 
-Data visualization
+[SQL-Structured Query Language](#sql-structured-query-language)
 
-SQL-Structured Query Language
 
-[Power BI](#power bi)
+[Power BI](#power-bi)
 
 
 
