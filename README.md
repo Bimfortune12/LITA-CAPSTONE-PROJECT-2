@@ -63,6 +63,16 @@ This is where we involve basic line of codes or Query.Somme of the Dax expressio
 
 
 
+### Charts
+
+
+
+
+![image](https://github.com/user-attachments/assets/a0a8b54e-61cc-457e-a271-9315e6db9909)
+
+
+
+
 
 
 
